@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">projetws</string>
+    <array name="villes">villes
+        <item>Casablanca</item>
+        <item>Fes</item>
+        <item>Agadir</item>
+        <item>Meknes</item>
+        <item>El jadida</item>
+        <item>Tanger</item>
+        <item>Ouarzazate</item>
+        <item>Rabat</item>
+        <item>Mohammadia</item>
+        <item>Azrou</item>
+        <item>Ifrane</item>
+        <item>Marrakech</item>
+        <item>Settat</item>
+
+    </array>
+
+</resources>
